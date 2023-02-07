@@ -1,9 +1,5 @@
 ### Jason ⊂(◉‿◉)つ 
 
-<strong>Software Developer Engineer</strong>
-
-I am a full-stack software engineer with a passion for game development. With my expertise in both front-end and back-end development, I bring a unique perspective to projects and strive to make an impact. I am driven by creating memorable experiences. I have experience in producing websites, apps, games, vr, and ai.
-
 <h1 style="font-size:48px;"><a href="https://jasongodfrey.dev">jasongodfrey.dev</a></h1>
 
 ![Snake animation](https://github.com/jasonygodfrey/jasonygodfrey/blob/output/github-contribution-grid-snake.svg)
@@ -30,3 +26,6 @@ I am a full-stack software engineer with a passion for game development. With my
 </p>
 <p>
 
+<strong>Software Developer Engineer</strong>
+
+I am a full-stack software engineer with a passion for game development. With my expertise in both front-end and back-end development, I bring a unique perspective to projects and strive to make an impact. I am driven by creating memorable experiences. I have experience in producing websites, apps, games, vr, and ai.
