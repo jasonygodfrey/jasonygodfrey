@@ -1,5 +1,5 @@
 ### Jason ⊂(◉‿◉)つ 
-Software Developer Engineer
+<strong>Software Developer Engineer</strong>
 
 I'm a full-stack software engineer with a passion for game development. With my expertise in both front-end and back-end development, I bring a unique perspective to projects and strive to make an impact. I am driven by the desire to create memorable experiences.
 
