@@ -21,7 +21,7 @@ I'm a full-stack software engineer with a passion for game development. With my 
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48">
   <img src="https://user-images.githubusercontent.com/83245646/217352408-21aa6d39-10f8-4e54-ba4a-4252e4090952.png" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/dotnet.png" width="48" height="48">
+  <img src="https://user-images.githubusercontent.com/83245646/217356559-4ed8bb7f-d71a-4f9d-a500-decfbade3290.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48">
