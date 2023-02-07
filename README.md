@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/django.png" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/react.png" width="48" height="48">
+  <img src="![image](https://user-images.githubusercontent.com/83245646/217352002-5fda2c7e-8cd7-4192-8076-20f09c9a4502.png)" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48">
 </p>
 <p>
