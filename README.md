@@ -10,7 +10,6 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
 </p>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/django.png" width="48" height="48">
   <img src="https://user-images.githubusercontent.com/83245646/217352002-5fda2c7e-8cd7-4192-8076-20f09c9a4502.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48">
@@ -20,9 +19,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48">
 </p>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/aws.png" width="48" height="48">
+  <img src="https://user-images.githubusercontent.com/83245646/217352408-21aa6d39-10f8-4e54-ba4a-4252e4090952.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="48" height="48">
 </p>
 <p>
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" width="48" height="48">
