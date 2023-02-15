@@ -26,6 +26,6 @@
 </p>
 <p>
 
-<strong>Software Developer Engineer</strong>
+<strong>Software Development Engineer</strong>
 
 I am a full-stack software engineer with a passion for game development. With my expertise in both front-end and back-end development, I bring a unique perspective to projects and strive to make an impact. I am driven by creating memorable experiences. I have experience in producing websites, apps, games, vr, and ai.
