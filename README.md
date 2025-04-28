@@ -9,12 +9,15 @@ FRONTEND: HTML, CSS, ThreeJS, WebGL
 
 BACKEND: Django: Python , SQL, Firebase, MongoDB
 
-DEPLOYMENT: Vercel, AWS, Google Cloud,
+DEPLOYMENT: Vercel, AWS, Google Cloud
 
 
 
 GAMES:
 Unreal Engine 5, C++, LUA, SQL, Server Engines
+
+Other:
+Figma, Jira, Agile, Scrum
 
 
 Thank you for visiting! 
