@@ -1,6 +1,28 @@
-## Hi there 👋
+## Hi there 👋 ⊂(◉‿◉)つ
+About:
+I am a Full Stack Web and Games Software Engineer specialized in React and developing 3D interactive web experiences.
+
+
+WEB STACK:
+React: Javascript, Node, 
+FRONTEND: HTML, CSS, ThreeJS, WebGL
+
+BACKEND: Django: Python , SQL, Firebase, MongoDB
+
+DEPLOYMENT: Vercel, AWS, Google Cloud,
+
+
+
+GAMES:
+Unreal Engine 5, C++, LUA, SQL, Server Engines
+
+
+Thank you for visiting! 
 
 <!--
+
+TODO: CERTIFICATIONS
+
 **jasonygodfrey/jasonygodfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
