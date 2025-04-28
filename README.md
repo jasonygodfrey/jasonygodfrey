@@ -6,7 +6,7 @@ I am a **Full Stack Web and Games Software Engineer** specializing in **React** 
 ---
 
 ### 🌐 Web Stack
-- **React** (JavaScript, Node.js)
+- **React** JavaScript, Node.js
 - **Frontend**: HTML, CSS, Three.js, WebGL
 - **Backend**: Django (Python), SQL, Firebase, MongoDB
 - **Deployment**: Vercel, AWS, Google Cloud
@@ -14,18 +14,19 @@ I am a **Full Stack Web and Games Software Engineer** specializing in **React** 
 ---
 
 ### 🎮 Games Development
-- Unreal Engine 5 (C++, Lua, SQL, Server Engines)
+- Unreal Engine 5 , C++, Lua, SQL, Server Engines
 
 ---
 
 ### 🛠️ Other Tools
 - Figma
 - Jira
-- Agile / Scrum Methodologies
+- Agile
+- Scrum Methodologies
 
 ---
 
-### 🙏 Thank you for visiting!
+### Thank you for visiting!
 
 
 <!--
