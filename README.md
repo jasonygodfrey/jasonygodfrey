@@ -25,6 +25,7 @@ I am a **Full Stack Web and Games Software Engineer** specializing in **React** 
 - Jira
 - Agile
 - Scrum Methodologies
+- Blender, Photoshop, Adobe Suite
 
 ---
 
