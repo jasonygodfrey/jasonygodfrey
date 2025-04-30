@@ -11,7 +11,7 @@ I am a **Full Stack Web and Games Software Engineer** specializing in **React** 
 - **Backend**: Django (Python), SQL, Firebase, MongoDB
 - **Mobile**: React Native
 - **Desktop Apps**: Electron JS
-- **Deployment**: Vercel, AWS, Google Cloud, Git Version Control
+- **Deployment**: Vercel, AWS, Google Cloud, Git 
 
 ---
 
