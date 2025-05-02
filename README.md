@@ -12,7 +12,6 @@ I am a **Full Stack Web and Game Software Engineer** specializing in **React** a
 - **Mobile**: React Native
 - **Desktop Apps**: Electron JS
 - **Deployment**: Vercel, AWS, Google Cloud, Git 
-![image](https://github.com/user-attachments/assets/f26b6544-e4f2-4db9-81b9-1f8fd0bba1f3)
 
 ---
 
