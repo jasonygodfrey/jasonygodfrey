@@ -16,7 +16,7 @@ I am a **Full Stack Web and Game Software Engineer** specializing in **React** a
 ---
 
 ### 🎮 Game Development
-- Unreal Engine 5 , C++,, Java, Lua, SQL, Server Engines, VR/XR
+- Unreal Engine 5 , C++, Java, Lua, SQL, Server Engines, VR/XR
 
 ---
 
