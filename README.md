@@ -23,6 +23,7 @@ I am a **Full Stack Web and Game Software Engineer** specializing in **React** a
 ### 🛠️ Other Tools
 - Figma, Blender, Photoshop, Adobe Suite
 - Jira, Agile, Kanban, Scrum Methodologies
+- Software Development Life Cycle, Data Structures and Algorithms
   
 ---
 
