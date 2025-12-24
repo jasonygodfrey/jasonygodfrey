@@ -2,6 +2,7 @@
 
 ### About
 I am a **Full Stack Web and Game Software Engineer** specialized in **React** and building **3D interactive web experiences**.
+I am also focused on **C++ Gameplay and Server Engineering for MMORPGS** where I apply coding design patterns to dynamic gameplay elements.
 
 ---
 
@@ -16,7 +17,8 @@ I am a **Full Stack Web and Game Software Engineer** specialized in **React** an
 ---
 
 ### 🎮 Game Development
-- Unreal Engine 5 , C++, Java, Lua, SQL, Server Engines, VR/XR
+-  C++, SQL, Lua, Unreal Engine 5 , Java, Server Engines, VR/XR
+
 
 ---
 
