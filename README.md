@@ -2,6 +2,7 @@
 
 ### About
 I am a **Full Stack Web and Game Software Engineer** specialized in **React** and building **3D interactive web experiences**.
+
 I am also focused on **C++ Gameplay and Server Engineering for MMORPGS**.
 
 ---
